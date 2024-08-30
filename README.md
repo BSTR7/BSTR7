@@ -1,16 +1,55 @@
-## Hi there 👋
+# Jorge Bustamante Santibañez
 
-<!--
-**BSTR7/BSTR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Educación
 
-Here are some ideas to get you started:
+- **Estudiante de Ingeniería en Informática** en Santo Tomás
+- **Técnico en Conectividad y Redes** en Instituto Comercial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Cursos Completados
+
+- **Cisco Networking Academy**:
+  - Get Connected
+  - Introduction to IoT
+  - Partner: NDG Linux Unhatched
+  - CCNAv7: Introduction to Networks
+  - Introduction to Cybersecurity
+
+## 🌐 Redes Sociales
+
+- [Instagram](https://www.instagram.com/stbz.jorge/)
+- ![Instagram Logo](https://camo.githubusercontent.com/c8bd82d89314e366e096370c91aa3551ed65626c3da39b485720548d873d241f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465)
+
+## 💻 Stack Tecnológico
+
+- **JAVA**: ![Java](https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+- **C#**: ![C#](https://camo.githubusercontent.com/55856fb5524fa3c16627af16241febfabe81e16f1600169a891d599757671750/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
+- **Python**: ![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
+
+---
+
+# Jorge Bustamante Santibañez
+
+## 👨‍🎓 Education
+
+- **Computer Engineering Student** at Santo Tomás
+- **Connectivity and Networking Technician** at Instituto Comercial
+
+## 🎓 Completed Courses
+
+- **Cisco Networking Academy**:
+  - Get Connected
+  - Introduction to IoT
+  - Partner: NDG Linux Unhatched
+  - CCNAv7: Introduction to Networks
+  - Introduction to Cybersecurity
+
+## 🌐 Socials
+
+- [Instagram](https://www.instagram.com/stbz.jorge/)
+- ![Instagram Logo](https://camo.githubusercontent.com/c8bd82d89314e366e096370c91aa3551ed65626c3da39b485720548d873d241f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465)
+
+## 💻 Tech Stack
+
+- **JAVA**: ![Java](https://camo.githubusercontent.com/6d9ad4becc2d73ac5cefacc1370a6c37458f272a553046ea5e2b8351ea185747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
+- **C#**: ![C#](https://camo.githubusercontent.com/55856fb5524fa3c16627af16241febfabe81e16f1600169a891d599757671750/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
+- **Python**: ![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
