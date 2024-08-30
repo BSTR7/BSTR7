@@ -21,8 +21,6 @@
 
 ---
 
-# Jorge Bustamante Santibañez
-
 ## 👨‍🎓 Education
 
 - **Computer Engineering Student** at Santo Tomás
