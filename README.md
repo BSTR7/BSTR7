@@ -11,6 +11,8 @@ Técnico en Conectividad y Redes en Instituto Comercial, Linares<br><br>
 - CCNAv7: Introduction to Networks<br>
 - Introduction to Cybersecurity<br><br>
 
+**Bootcamp de Seguridad de la Información y Ciberseguridad USACH**<br><br>
+
 ## 🌐 Redes Sociales
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stbz.jorge) 
 
@@ -36,6 +38,8 @@ Connectivity and Networking Technician at Instituto Comercial, Linares<br><br>
 - Partner: NDG Linux Unhatched<br>
 - CCNAv7: Introduction to Networks<br>
 - Introduction to Cybersecurity<br><br>
+
+**Bootcamp on Information Security and Cybersecurity USACH**<br><br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stbz.jorge)
