@@ -43,6 +43,7 @@ Connectivity and Networking Technician at Instituto Comercial, Linares<br><br>
 - Introduction to Cybersecurity<br><br>
 
 [![bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png](https://i.postimg.cc/J7BDgHTm/bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png)](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f/public_url)
+
 🎓**Bootcamp on Information Security and Cybersecurity USACH**<br><br>
 
 ## 🌐 Socials
