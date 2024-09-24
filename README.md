@@ -10,10 +10,14 @@ Técnico en Conectividad y Redes en Instituto Comercial, Linares<br><br>
 - Partner: NDG Linux Unhatched<br>
 - CCNAv7: Introduction to Networks<br>
 - Introduction to Cybersecurity<br><br>
-
-[![bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png](https://i.postimg.cc/J7BDgHTm/bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png)](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f/public_url)
-
+[![introduction-to-cybersecurity.png](https://i.postimg.cc/y80zxpRp/introduction-to-cybersecurity.png)](https://www.credly.com/badges/faadf0a7-8f8c-4573-9eb5-20efc84997d1/public_url)
+[![ccna-introduction-to-networks.png](https://i.postimg.cc/gkCWYbx6/ccna-introduction-to-networks.png)](https://www.credly.com/badges/21ae9f55-38f7-487f-9e32-7e3d71d6c625/public_url)
+<br><br>
+[![bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png](https://i.postimg.cc/dtkFPVVY/bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png)](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f/public_url)
 🎓**Bootcamp de Seguridad de la Información y Ciberseguridad USACH**<br><br>
+<br>
+[![masterclass-pentesting-web-avanzado-attendee.png](https://i.postimg.cc/RCbmDH9d/masterclass-pentesting-web-avanzado-attendee.png)](https://www.credly.com/badges/44d209f9-4c8e-442c-9d6b-5ae4866c4cd0/public_url)
+🎓**Masterclass - Pentesting Web Avanzado (Attendee)**<br><br>
 
 ## 🌐 Redes Sociales
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stbz.jorge) 
@@ -40,10 +44,15 @@ Connectivity and Networking Technician at Instituto Comercial, Linares<br><br>
 - Partner: NDG Linux Unhatched<br>
 - CCNAv7: Introduction to Networks<br>
 - Introduction to Cybersecurity<br><br>
+[![introduction-to-cybersecurity.png](https://i.postimg.cc/y80zxpRp/introduction-to-cybersecurity.png)](https://www.credly.com/badges/faadf0a7-8f8c-4573-9eb5-20efc84997d1/public_url)
+[![ccna-introduction-to-networks.png](https://i.postimg.cc/gkCWYbx6/ccna-introduction-to-networks.png)](https://www.credly.com/badges/21ae9f55-38f7-487f-9e32-7e3d71d6c625/public_url)
+<br><br>
 
-[![bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png](https://i.postimg.cc/J7BDgHTm/bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png)](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f/public_url)
-
+[![bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png](https://i.postimg.cc/dtkFPVVY/bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png)](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f/public_url)
 🎓**Bootcamp on Information Security and Cybersecurity USACH**<br><br>
+<br>
+[![masterclass-pentesting-web-avanzado-attendee.png](https://i.postimg.cc/RCbmDH9d/masterclass-pentesting-web-avanzado-attendee.png)](https://www.credly.com/badges/44d209f9-4c8e-442c-9d6b-5ae4866c4cd0/public_url)
+🎓**Masterclass - Advanced Web Pentesting (Attendee)**<br><br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stbz.jorge)
