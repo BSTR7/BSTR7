@@ -16,8 +16,8 @@ Técnico en Conectividad y Redes en Instituto Comercial, Linares<br><br>
 [![bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png](https://i.postimg.cc/dtkFPVVY/bootcamp-en-seguridad-de-la-informacion-y-cibersegu.png)](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f/public_url)
 [![masterclass-pentesting-web-avanzado-attendee.png](https://i.postimg.cc/RCbmDH9d/masterclass-pentesting-web-avanzado-attendee.png)](https://www.credly.com/badges/44d209f9-4c8e-442c-9d6b-5ae4866c4cd0/public_url)
 <br>
--🎓**Masterclass - Pentesting Web Avanzado (Attendee)**<br><br>
--🎓**Bootcamp de Seguridad de la Información y Ciberseguridad USACH**<br><br>
+-🎓 **Masterclass - Pentesting Web Avanzado (Attendee)**<br><br>
+-🎓 **Bootcamp de Seguridad de la Información y Ciberseguridad USACH**<br><br>
 
 ## 🌐 Redes Sociales
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stbz.jorge) 
