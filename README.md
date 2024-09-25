@@ -1,4 +1,4 @@
-# Sobre Mí
+# [![83a243148fdcc79a37700b258080d15b.png](https://i.postimg.cc/43HnfHRb/83a243148fdcc79a37700b258080d15b.png)](https://postimg.cc/CZYwJ11z) Sobre Mí
 **Jorge Bustamante Santibañez**<br><br>
 👨‍🎓 **Educación**<br>
 Estudiante de Ingeniería en Informática en Santo Tomás, Talca<br>
