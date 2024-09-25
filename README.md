@@ -1,5 +1,4 @@
-
-<br>
+#Sobre Mí
 **Jorge Bustamante Santibañez**<br><br>
 👨‍🎓 **Educación**<br>
 Estudiante de Ingeniería en Informática en Santo Tomás, Talca<br>
