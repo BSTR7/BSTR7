@@ -32,7 +32,7 @@ Técnico en Conectividad y Redes en Instituto Comercial, Linares<br><br>
 
 
 
-# [![83a243148fdcc79a37700b258080d15b.png](https://i.postimg.cc/43HnfHRb/83a243148fdcc79a37700b258080d15b.png)](https://postimg.cc/CZYwJ11z) About Me
+# [![83a243148fdcc79a37700b258080d15b.png](https://i.postimg.cc/43HnfHRb/83a243148fdcc79a37700b258080d15b.png)](https://postimg.cc/CZYwJ11z)<br> About Me
 **Jorge Bustamante Santibañez**<br><br>
 👨‍🎓 **Education**<br>
 Computer Engineering Student at Santo Tomás, Talca<br>
