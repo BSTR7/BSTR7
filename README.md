@@ -44,12 +44,12 @@ Técnico en **Conectividad y Redes**, actualmente cursando **Ingeniería en Info
 ### <img src="https://cdn.simpleicons.org/googleanalytics/A020F0" width="25"> [ ANÁLISIS_DE_DATOS ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSTR7&show_icons=true&theme=visionary&title_color=A020F0&icon_color=A020F0&border_color=A020F0&bg_color=0d1117&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSTR7&layout=compact&theme=visionary&title_color=A020F0&border_color=A020F0&bg_color=0d1117&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BSTR7&show_icons=true&theme=dark&title_color=A020F0&icon_color=A020F0&border_color=A020F0&bg_color=0d1117&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BSTR7&layout=compact&theme=dark&title_color=A020F0&border_color=A020F0&bg_color=0d1117&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSTR7&theme=visionary&stroke=A020F0&background=0d1117&ring=A020F0&fire=A020F0&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSTR7&theme=dark&stroke=A020F0&background=0d1117&ring=A020F0&fire=A020F0&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
