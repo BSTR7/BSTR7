@@ -1,61 +1,65 @@
-## 👋 Sobre mí | About Me
+<div align="center">
+  <!-- Header estilo Terminal - BSTR7 :: ROOT -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=BSTR7%20::%20ROOT&fontSize=70&fontColor=A020F0&section=header&height=150" width="100%"/>
 
-**Jorge Bustamante Santibañez**  
-🎓 Estudiante de Ingeniería en Informática – **Santo Tomás, Talca**  
-🌐 Técnico en Conectividad y Redes – **Instituto Comercial, Linares**
-
----
-
-## 🎓 Educación | Education
-
-- **Computer Engineering Student** – Santo Tomás (Talca)  
-- **Connectivity & Networking Technician** – Instituto Comercial (Linares)
+  <!-- Animación de escritura personalizada -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Fullstack+Developer+Student;Connectivity+%26+Network+Expert;Cybersecurity+Enthusiast;Building+Scalable+Solutions..." alt="Typing SVG" />
+</div>
 
 ---
 
-## 🏅 Cursos y Certificaciones | Courses & Certifications
+### 🧑‍💻 [profile_summary]
 
-### Cisco Networking Academy
-- Get Connected  
-- Introduction to IoT  
-- NDG Linux Unhatched  
-- CCNAv7: Introduction to Networks  
-- Introduction to Cybersecurity  
+Soy un **Técnico en Conectividad y Redes** actualmente cursando **Ingeniería en Informática**. Mi perfil combina el rigor de la infraestructura física con la creatividad del desarrollo de software. Me especializo en crear soluciones seguras, eficientes y escalables.
 
-### Certificaciones y cursos externos
-- **Introduction to Cybersecurity**  
-  https://www.credly.com/badges/faadf0a7-8f8c-4573-9eb5-20efc84997d1
-- **CCNA: Introduction to Networks**  
-  https://www.credly.com/badges/21ae9f55-38f7-487f-9e32-7e3d71d6c625
-- **Bootcamp Seguridad de la Información y Ciberseguridad – USACH**  
-  https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f
-- **Masterclass Pentesting Web Avanzado – USACH**  
-  https://www.credly.com/badges/44d209f9-4c8e-442c-9d6b-5ae4866c4cd0
+- 🎓 **Estudios:** Ingeniería en Informática (Santo Tomás, Talca).
+- 🛠️ **Expertise:** Networking (Cisco), Desarrollo (Python/C#/Java) y Ciberseguridad.
+- 🚀 **Enfoque:** Automatización de procesos y seguridad defensiva.
 
 ---
 
-## 🌐 Redes Sociales | Socials
+### ⚡ Tech Stack 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/stbz.jorge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgebs7/)
-[![Credly](https://img.shields.io/badge/Credly-FF6F00?logo=credly&logoColor=white)](https://www.credly.com/users/jorge-ignacio-bustamante-santibanez)
+| **Desarrollo** | **Infraestructura** | **Bases de Datos** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+
+---
+
+### 🏅 Certificaciones 
+
+*   **USACH** | [Seguridad de la Información y Ciberseguridad](https://www.credly.com/badges/97ebff29-d93e-48cf-b327-2128a3f1ec4f)
+*   **USACH** | [Pentesting Web Avanzado](https://www.credly.com/badges/44d209f9-4c8e-442c-9d6b-5ae4866c4cd0)
+*   **Cisco** | [CCNA: Introduction to Networks](https://www.credly.com/badges/21ae9f55-38f7-487f-9e32-7e3d71d6c625)
+*   **Cisco** | [Introduction to Cybersecurity](https://www.credly.com/badges/faadf0a7-8f8c-4573-9eb5-20efc84997d1)
 
 ---
 
-## 💻 Stack Tecnológico | Tech Stack
+### 📊 GitHub Activity 
 
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?logo=cisco&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BSTR7&show_icons=true&theme=visionary&title_color=A020F0&icon_color=A020F0&border_color=A020F0&bg_color=0d1117&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSTR7&layout=compact&theme=visionary&title_color=A020F0&border_color=A020F0&bg_color=0d1117&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSTR7&theme=visionary&stroke=A020F0&background=0d1117&ring=A020F0&fire=A020F0&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
+
+### 📡 Contact Meta 
+
+<p align="center">
+  <a href="https://linkedin.com/in/jorgebs7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jorge.bustamante1393@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/jorge-ignacio-bustamante-santibanez"><img src="https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://instagram.com/stbz.jorge"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <!-- Barra de cierre sólida en morado -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=A020F0&height=10&section=footer&width=1000" width="100%"/>
+</div>
